@@ -206,4 +206,5 @@ KasKita hadir bukan hanya sebagai aplikasi pencatat keuangan, tetapi juga sebaga
 ## Demo
 [https://youtu.be/mV4gYxfGaKI](https://youtu.be/mV4gYxfGaKI)
 
-## Link Blog : 
+## Link Blog 
+[https://github.com/DarkDrago89/PBKK/blob/main/ETS/Readme.md](https://github.com/DarkDrago89/PBKK/blob/main/ETS/Readme.md)
